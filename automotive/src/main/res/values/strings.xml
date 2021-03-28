@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name" translatable="false">Audra</string>
+    <string name="car_connection_established" translatable="false">Connection to the car established</string>
+</resources>
